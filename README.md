@@ -6,8 +6,6 @@ This repository provides the supplementary material and MATLAB code for the pape
 
 **Authors:** Yifan Dong, Tomáš Masopust, and Zhiwu Li
 
-**Journal:** IEEE Transactions on Automatic Control
-
 ## Supplementary Material
 
 The supplementary material presents a computational case study based on a parameterized wafer processing system modeled by a time labeled Petri net (TLPN).
